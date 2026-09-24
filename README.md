@@ -11,16 +11,12 @@ growing businesses in Delhi NCR and Uttar Pradesh.
 ```
 .
 ├── web/                    the application — marketing site, admin, API
-├── index.html              the original single-page site (still live)
-├── products.html           the original product page
-├── *.png *.jpg             images used by the original site
 └── .github/workflows/      CI: typecheck, lint, test, build
 ```
 
-The files at the root are the **original hand-written site** that currently serves
-novapulse.co.in. They are untouched and still deployable. Everything new lives in
-[`web/`](web) and does not affect them — so the old site keeps running until the domain
-is deliberately pointed at the new one.
+The whole site lives in [`web/`](web). The original hand-written `index.html` /
+`products.html` site and its root-level images have been removed — this repo is now the
+Next.js application only, and novapulse.co.in is served from it.
 
 ## The site
 

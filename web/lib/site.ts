@@ -30,7 +30,7 @@ export const site = {
   whatsapp: "https://wa.me/+918796623604",
   whatsappWithMessage:
     "https://wa.me/+918796623604?text=Hi%20Nova%20Pulse,%20I%20would%20like%20to%20know%20more%20about%20your%20business%20solutions.",
-  gstin: "AA070826003612E",
+  gstin: "07JTGPK2862G1ZF",
   msme: "UDYAM-DL-06-****",
   addresses: ["Adarsh Nagar, Delhi – 110033", "Mainpuri, Uttar Pradesh"],
   socials: {

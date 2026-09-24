@@ -30,7 +30,7 @@ export const values = [
 
 export const credentials = [
   { label: "Govt. recognised MSME", detail: "UDYAM-DL-06-****", icon: "FaAward" },
-  { label: "GST registered entity", detail: "AA070826003612E", icon: "FaFileInvoice" },
+  { label: "GST registered entity", detail: "07JTGPK2862G1ZF", icon: "FaFileInvoice" },
   { label: "Enterprise security audit", detail: "Verified deployment", icon: "FaShieldHalved" },
 ];
 
